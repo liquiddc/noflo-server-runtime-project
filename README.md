@@ -10,7 +10,7 @@ noflo-server-runtime-project
       "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
       },
-      "author": "Dan Crawford",
+      "author": "Your name",
       "license": "MIT",
       "dependencies": {
         "noflo": "*",
