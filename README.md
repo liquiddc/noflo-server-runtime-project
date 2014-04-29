@@ -4,7 +4,9 @@ noflo-server-runtime-project
 $ mkdir noflo-server-runtime-project
 $ cd noflo-server-runtime-project
 $ npm init
+```
 
+now add some dependencies to the package.json file - refer below
 
 
 ```json
@@ -33,3 +35,11 @@ $ npm init
     "noflo-webserver": "*"
   }
 }
+```
+
+
+then use npm to install all the noflo components.
+```
+$npm install
+```
+
