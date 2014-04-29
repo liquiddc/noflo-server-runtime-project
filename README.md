@@ -7,6 +7,7 @@ $ npm init
 ```
 
 now add some dependencies to the package.json file - refer below
+add the dependencies key in below the license key
 
 
 ```json
@@ -42,4 +43,7 @@ then use npm to install all the noflo components.
 ```
 $npm install
 ```
+this will take a while...
+
+
 
