@@ -1,5 +1,10 @@
 noflo-server-runtime-project
 ============================
+```shell
+$ mkdir noflo-server-runtime-project
+$ cd noflo-server-runtime-project
+$ npm init
+
 
 
 ```json
